@@ -21,8 +21,7 @@ It combines **theory**, **practical code snippets**, **quizzes**, and **mini-pro
 4. To verify installation, open a terminal/command prompt and run:
    ```bash
    python --version
-or
-   ```bash
+         or
    python3 --version
 
 ---
